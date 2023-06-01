@@ -6,4 +6,4 @@ https://github.com/LouzanCode/Rentalia-Scraper/assets/126080651/e6d38c17-f83f-42
 
 RESULTADO CSV:
 
-![Resultado](https://github.com/LouzanCode/Rentalia-Scraper/Captura.PNG)
+![Resultado](https://github.com/LouzanCode/Rentalia-Scraper/blob/main/Captura.PNG)
